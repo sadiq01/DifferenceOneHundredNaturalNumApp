@@ -1,0 +1,5 @@
+E:\c#\DifferenceOneHundredNaturalNumApp\DifferenceOneHundredNaturalNumApp\bin\Debug\DifferenceOneHundredNaturalNumApp.exe.config
+E:\c#\DifferenceOneHundredNaturalNumApp\DifferenceOneHundredNaturalNumApp\bin\Debug\DifferenceOneHundredNaturalNumApp.exe
+E:\c#\DifferenceOneHundredNaturalNumApp\DifferenceOneHundredNaturalNumApp\bin\Debug\DifferenceOneHundredNaturalNumApp.pdb
+E:\c#\DifferenceOneHundredNaturalNumApp\DifferenceOneHundredNaturalNumApp\obj\Debug\DifferenceOneHundredNaturalNumApp.exe
+E:\c#\DifferenceOneHundredNaturalNumApp\DifferenceOneHundredNaturalNumApp\obj\Debug\DifferenceOneHundredNaturalNumApp.pdb
